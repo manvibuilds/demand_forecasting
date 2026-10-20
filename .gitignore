@@ -1,5 +1,21 @@
-
 .venv/
 __pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
 .ipynb_checkpoints/
 .env
+
+# Private order files. Folder placeholders stay so the layout is clear.
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Forecast and evaluation files include locations, items, and quantities.
+# Keep them on this machine unless a separate review says they can be published.
+outputs/*
+!outputs/.gitkeep
