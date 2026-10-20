@@ -1,0 +1,21 @@
+Dataset,Horizon,Cutoff start,Cutoff end,Series-origin pairs,Scored weeks,XGBoost MAE,Random Forest MAE,Repeat last week MAE,XGBoost median AE,Random Forest median AE,Repeat last week median AE,Lowest MAE,Lowest median AE
+Levis SKU,1 week ahead,2025-12-08,2026-01-26,224,224,7.17,7.33,4.7,0.98,1.59,0.0,Repeat last week,Repeat last week
+Levis SKU,2 week ahead,2025-12-08,2026-01-26,224,224,6.8,6.9,4.65,0.66,1.6,0.0,Repeat last week,Repeat last week
+Levis SKU,3 week ahead,2025-12-08,2026-01-26,224,224,6.91,7.52,3.89,0.74,1.83,0.0,Repeat last week,Repeat last week
+Levis SKU,4 week ahead,2025-12-08,2026-01-26,224,224,6.83,7.22,3.09,1.0,2.16,0.0,Repeat last week,Repeat last week
+Levis SKU,All 4 weeks,2025-12-08,2026-01-26,224,896,6.93,7.24,4.08,0.89,1.73,0.0,Repeat last week,Repeat last week
+Souled Store SKU,1 week ahead,2025-12-08,2026-01-26,1461,1461,4.9,4.37,4.55,1.84,1.76,1.0,Random Forest,Repeat last week
+Souled Store SKU,2 week ahead,2025-12-08,2026-01-26,1461,1461,5.99,5.41,5.56,2.0,1.91,2.0,Random Forest,Random Forest
+Souled Store SKU,3 week ahead,2025-12-08,2026-01-26,1461,1461,6.92,6.21,6.72,2.2,2.0,2.0,Random Forest,Tie: Random Forest and Repeat last week
+Souled Store SKU,4 week ahead,2025-12-08,2026-01-26,1461,1461,7.12,6.37,7.03,2.26,2.01,2.0,Random Forest,Repeat last week
+Souled Store SKU,All 4 weeks,2025-12-08,2026-01-26,1461,5844,6.23,5.59,5.97,2.03,1.9,2.0,Random Forest,Random Forest
+Levis Category,1 week ahead,2025-12-08,2026-01-26,15,15,1210.87,1191.95,1146.87,93.44,60.62,18.0,Repeat last week,Repeat last week
+Levis Category,2 week ahead,2025-12-08,2026-01-26,15,15,1301.23,1276.03,1928.87,268.79,342.42,35.0,Random Forest,Repeat last week
+Levis Category,3 week ahead,2025-12-08,2026-01-26,15,15,1303.22,1279.42,1989.13,93.46,544.44,205.0,Random Forest,XGBoost
+Levis Category,4 week ahead,2025-12-08,2026-01-26,15,15,1239.25,1332.85,1905.67,319.96,542.29,258.0,XGBoost,Repeat last week
+Levis Category,All 4 weeks,2025-12-08,2026-01-26,15,60,1263.64,1270.06,1742.63,126.32,174.52,44.0,XGBoost,Repeat last week
+Souled Store Category,1 week ahead,2025-12-08,2026-01-26,528,528,10.2,9.19,9.52,2.24,1.89,2.0,Random Forest,Random Forest
+Souled Store Category,2 week ahead,2025-12-08,2026-01-26,528,528,13.45,11.94,12.96,2.32,2.02,2.0,Random Forest,Repeat last week
+Souled Store Category,3 week ahead,2025-12-08,2026-01-26,528,528,16.25,14.41,15.74,2.33,2.0,2.0,Random Forest,Tie: Random Forest and Repeat last week
+Souled Store Category,4 week ahead,2025-12-08,2026-01-26,528,528,15.86,14.97,15.5,2.49,2.17,3.0,Random Forest,Random Forest
+Souled Store Category,All 4 weeks,2025-12-08,2026-01-26,528,2112,13.94,12.63,13.43,2.32,2.0,2.0,Random Forest,Tie: Random Forest and Repeat last week

@@ -1,0 +1,797 @@
+Week,Fulfilment Location,Category,Forecast Net Sold Quantity
+2026-03-03,"AS Rao, Hyderabad",Cotton Linen Shirts,1.25
+2026-03-10,"AS Rao, Hyderabad",Cotton Linen Shirts,1.25
+2026-03-17,"AS Rao, Hyderabad",Cotton Linen Shirts,1.25
+2026-03-24,"AS Rao, Hyderabad",Cotton Linen Shirts,1.25
+2026-03-03,"AS Rao, Hyderabad",Men Perfumes,8.5
+2026-03-10,"AS Rao, Hyderabad",Men Perfumes,8.5
+2026-03-17,"AS Rao, Hyderabad",Men Perfumes,8.5
+2026-03-24,"AS Rao, Hyderabad",Men Perfumes,8.5
+2026-03-03,"AS Rao, Hyderabad",Oversized T-Shirts,6.75
+2026-03-10,"AS Rao, Hyderabad",Oversized T-Shirts,6.75
+2026-03-17,"AS Rao, Hyderabad",Oversized T-Shirts,6.75
+2026-03-24,"AS Rao, Hyderabad",Oversized T-Shirts,6.75
+2026-03-03,"Ambience Mall, Gurugram",Cotton Linen Shirts,2.5
+2026-03-10,"Ambience Mall, Gurugram",Cotton Linen Shirts,2.5
+2026-03-17,"Ambience Mall, Gurugram",Cotton Linen Shirts,2.5
+2026-03-24,"Ambience Mall, Gurugram",Cotton Linen Shirts,2.5
+2026-03-03,"Ambience Mall, Gurugram",Men Perfumes,2.5
+2026-03-10,"Ambience Mall, Gurugram",Men Perfumes,2.5
+2026-03-17,"Ambience Mall, Gurugram",Men Perfumes,2.5
+2026-03-24,"Ambience Mall, Gurugram",Men Perfumes,2.5
+2026-03-03,Anime Con Event,Men Perfumes,9.0
+2026-03-10,Anime Con Event,Men Perfumes,9.0
+2026-03-17,Anime Con Event,Men Perfumes,9.0
+2026-03-24,Anime Con Event,Men Perfumes,9.0
+2026-03-03,"Aparna Neo Mall, Hyderabad",Men Perfumes,3.25
+2026-03-10,"Aparna Neo Mall, Hyderabad",Men Perfumes,3.25
+2026-03-17,"Aparna Neo Mall, Hyderabad",Men Perfumes,3.25
+2026-03-24,"Aparna Neo Mall, Hyderabad",Men Perfumes,3.25
+2026-03-03,"Aparna Neo Mall, Hyderabad",Oversized T-Shirts,3.75
+2026-03-10,"Aparna Neo Mall, Hyderabad",Oversized T-Shirts,3.75
+2026-03-17,"Aparna Neo Mall, Hyderabad",Oversized T-Shirts,3.75
+2026-03-24,"Aparna Neo Mall, Hyderabad",Oversized T-Shirts,3.75
+2026-03-03,BW1 - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,19.75
+2026-03-10,BW1 - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,19.75
+2026-03-17,BW1 - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,19.75
+2026-03-24,BW1 - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,19.75
+2026-03-03,BW2 - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,168.0
+2026-03-10,BW2 - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,168.0
+2026-03-17,BW2 - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,168.0
+2026-03-24,BW2 - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,168.0
+2026-03-03,BW2 - The Souled Store Pvt. Ltd.,Men Perfumes,0.0
+2026-03-10,BW2 - The Souled Store Pvt. Ltd.,Men Perfumes,0.0
+2026-03-17,BW2 - The Souled Store Pvt. Ltd.,Men Perfumes,0.0
+2026-03-24,BW2 - The Souled Store Pvt. Ltd.,Men Perfumes,0.0
+2026-03-03,BW2 - The Souled Store Pvt. Ltd.,Oversized T-Shirts,195.75
+2026-03-10,BW2 - The Souled Store Pvt. Ltd.,Oversized T-Shirts,195.75
+2026-03-17,BW2 - The Souled Store Pvt. Ltd.,Oversized T-Shirts,195.75
+2026-03-24,BW2 - The Souled Store Pvt. Ltd.,Oversized T-Shirts,195.75
+2026-03-03,"Bandra, Mumbai",Cotton Linen Shirts,4.0
+2026-03-10,"Bandra, Mumbai",Cotton Linen Shirts,4.0
+2026-03-17,"Bandra, Mumbai",Cotton Linen Shirts,4.0
+2026-03-24,"Bandra, Mumbai",Cotton Linen Shirts,4.0
+2026-03-03,"Bandra, Mumbai",Men Perfumes,8.25
+2026-03-10,"Bandra, Mumbai",Men Perfumes,8.25
+2026-03-17,"Bandra, Mumbai",Men Perfumes,8.25
+2026-03-24,"Bandra, Mumbai",Men Perfumes,8.25
+2026-03-03,"Bandra, Mumbai",Oversized T-Shirts,6.0
+2026-03-10,"Bandra, Mumbai",Oversized T-Shirts,6.0
+2026-03-17,"Bandra, Mumbai",Oversized T-Shirts,6.0
+2026-03-24,"Bandra, Mumbai",Oversized T-Shirts,6.0
+2026-03-03,"Baner, Pune",Men Perfumes,5.25
+2026-03-10,"Baner, Pune",Men Perfumes,5.25
+2026-03-17,"Baner, Pune",Men Perfumes,5.25
+2026-03-24,"Baner, Pune",Men Perfumes,5.25
+2026-03-03,"Baner, Pune",Oversized T-Shirts,5.25
+2026-03-10,"Baner, Pune",Oversized T-Shirts,5.25
+2026-03-17,"Baner, Pune",Oversized T-Shirts,5.25
+2026-03-24,"Baner, Pune",Oversized T-Shirts,5.25
+2026-03-03,"Belgavi, Karnataka",Men Perfumes,2.75
+2026-03-10,"Belgavi, Karnataka",Men Perfumes,2.75
+2026-03-17,"Belgavi, Karnataka",Men Perfumes,2.75
+2026-03-24,"Belgavi, Karnataka",Men Perfumes,2.75
+2026-03-03,"Belgavi, Karnataka",Oversized T-Shirts,2.25
+2026-03-10,"Belgavi, Karnataka",Oversized T-Shirts,2.25
+2026-03-17,"Belgavi, Karnataka",Oversized T-Shirts,2.25
+2026-03-24,"Belgavi, Karnataka",Oversized T-Shirts,2.25
+2026-03-03,"Bhartiya City Mall, Bengaluru",Men Perfumes,1.75
+2026-03-10,"Bhartiya City Mall, Bengaluru",Men Perfumes,1.75
+2026-03-17,"Bhartiya City Mall, Bengaluru",Men Perfumes,1.75
+2026-03-24,"Bhartiya City Mall, Bengaluru",Men Perfumes,1.75
+2026-03-03,"Bhartiya City Mall, Bengaluru",Oversized T-Shirts,2.5
+2026-03-10,"Bhartiya City Mall, Bengaluru",Oversized T-Shirts,2.5
+2026-03-17,"Bhartiya City Mall, Bengaluru",Oversized T-Shirts,2.5
+2026-03-24,"Bhartiya City Mall, Bengaluru",Oversized T-Shirts,2.5
+2026-03-03,Bhucho - Bathinda,Men Perfumes,1.25
+2026-03-10,Bhucho - Bathinda,Men Perfumes,1.25
+2026-03-17,Bhucho - Bathinda,Men Perfumes,1.25
+2026-03-24,Bhucho - Bathinda,Men Perfumes,1.25
+2026-03-03,"Bhucho, Bathinda",Men Perfumes,2.0
+2026-03-10,"Bhucho, Bathinda",Men Perfumes,2.0
+2026-03-17,"Bhucho, Bathinda",Men Perfumes,2.0
+2026-03-24,"Bhucho, Bathinda",Men Perfumes,2.0
+2026-03-03,"Bhucho, Bathinda",Oversized T-Shirts,2.75
+2026-03-10,"Bhucho, Bathinda",Oversized T-Shirts,2.75
+2026-03-17,"Bhucho, Bathinda",Oversized T-Shirts,2.75
+2026-03-24,"Bhucho, Bathinda",Oversized T-Shirts,2.75
+2026-03-03,"Bopal, Ahmedabad",Cotton Linen Shirts,5.0
+2026-03-10,"Bopal, Ahmedabad",Cotton Linen Shirts,5.0
+2026-03-17,"Bopal, Ahmedabad",Cotton Linen Shirts,5.0
+2026-03-24,"Bopal, Ahmedabad",Cotton Linen Shirts,5.0
+2026-03-03,"Bopal, Ahmedabad",Men Perfumes,3.0
+2026-03-10,"Bopal, Ahmedabad",Men Perfumes,3.0
+2026-03-17,"Bopal, Ahmedabad",Men Perfumes,3.0
+2026-03-24,"Bopal, Ahmedabad",Men Perfumes,3.0
+2026-03-03,"Brigade Road, Bangalore",Men Perfumes,5.25
+2026-03-10,"Brigade Road, Bangalore",Men Perfumes,5.25
+2026-03-17,"Brigade Road, Bangalore",Men Perfumes,5.25
+2026-03-24,"Brigade Road, Bangalore",Men Perfumes,5.25
+2026-03-03,"Brigade Road, Bangalore",Oversized T-Shirts,2.75
+2026-03-10,"Brigade Road, Bangalore",Oversized T-Shirts,2.75
+2026-03-17,"Brigade Road, Bangalore",Oversized T-Shirts,2.75
+2026-03-24,"Brigade Road, Bangalore",Oversized T-Shirts,2.75
+2026-03-03,"Bypass, Cochin",Cotton Linen Shirts,7.5
+2026-03-10,"Bypass, Cochin",Cotton Linen Shirts,7.5
+2026-03-17,"Bypass, Cochin",Cotton Linen Shirts,7.5
+2026-03-24,"Bypass, Cochin",Cotton Linen Shirts,7.5
+2026-03-03,"Bypass, Cochin",Men Perfumes,5.25
+2026-03-10,"Bypass, Cochin",Men Perfumes,5.25
+2026-03-17,"Bypass, Cochin",Men Perfumes,5.25
+2026-03-24,"Bypass, Cochin",Men Perfumes,5.25
+2026-03-03,"C Road, Jodhpur",Cotton Linen Shirts,3.75
+2026-03-10,"C Road, Jodhpur",Cotton Linen Shirts,3.75
+2026-03-17,"C Road, Jodhpur",Cotton Linen Shirts,3.75
+2026-03-24,"C Road, Jodhpur",Cotton Linen Shirts,3.75
+2026-03-03,"C Road, Jodhpur",Men Perfumes,5.5
+2026-03-10,"C Road, Jodhpur",Men Perfumes,5.5
+2026-03-17,"C Road, Jodhpur",Men Perfumes,5.5
+2026-03-24,"C Road, Jodhpur",Men Perfumes,5.5
+2026-03-03,"C Road, Jodhpur",Oversized T-Shirts,5.25
+2026-03-10,"C Road, Jodhpur",Oversized T-Shirts,5.25
+2026-03-17,"C Road, Jodhpur",Oversized T-Shirts,5.25
+2026-03-24,"C Road, Jodhpur",Oversized T-Shirts,5.25
+2026-03-03,"C21 Mall, Indore",Cotton Linen Shirts,4.0
+2026-03-10,"C21 Mall, Indore",Cotton Linen Shirts,4.0
+2026-03-17,"C21 Mall, Indore",Cotton Linen Shirts,4.0
+2026-03-24,"C21 Mall, Indore",Cotton Linen Shirts,4.0
+2026-03-03,"C21 Mall, Indore",Men Perfumes,8.0
+2026-03-10,"C21 Mall, Indore",Men Perfumes,8.0
+2026-03-17,"C21 Mall, Indore",Men Perfumes,8.0
+2026-03-24,"C21 Mall, Indore",Men Perfumes,8.0
+2026-03-03,"C21 Mall, Indore",Oversized T-Shirts,6.75
+2026-03-10,"C21 Mall, Indore",Oversized T-Shirts,6.75
+2026-03-17,"C21 Mall, Indore",Oversized T-Shirts,6.75
+2026-03-24,"C21 Mall, Indore",Oversized T-Shirts,6.75
+2026-03-03,"CG Road, Ahmedabad",Men Perfumes,4.75
+2026-03-10,"CG Road, Ahmedabad",Men Perfumes,4.75
+2026-03-17,"CG Road, Ahmedabad",Men Perfumes,4.75
+2026-03-24,"CG Road, Ahmedabad",Men Perfumes,4.75
+2026-03-03,"CP67 Mall, Mohali",Cotton Linen Shirts,0.25
+2026-03-10,"CP67 Mall, Mohali",Cotton Linen Shirts,0.25
+2026-03-17,"CP67 Mall, Mohali",Cotton Linen Shirts,0.25
+2026-03-24,"CP67 Mall, Mohali",Cotton Linen Shirts,0.25
+2026-03-03,"CP67 Mall, Mohali",Men Perfumes,5.0
+2026-03-10,"CP67 Mall, Mohali",Men Perfumes,5.0
+2026-03-17,"CP67 Mall, Mohali",Men Perfumes,5.0
+2026-03-24,"CP67 Mall, Mohali",Men Perfumes,5.0
+2026-03-03,"CP67 Mall, Mohali",Oversized T-Shirts,6.25
+2026-03-10,"CP67 Mall, Mohali",Oversized T-Shirts,6.25
+2026-03-17,"CP67 Mall, Mohali",Oversized T-Shirts,6.25
+2026-03-24,"CP67 Mall, Mohali",Oversized T-Shirts,6.25
+2026-03-03,"Calungute, Goa",Cotton Linen Shirts,2.5
+2026-03-10,"Calungute, Goa",Cotton Linen Shirts,2.5
+2026-03-17,"Calungute, Goa",Cotton Linen Shirts,2.5
+2026-03-24,"Calungute, Goa",Cotton Linen Shirts,2.5
+2026-03-03,"Calungute, Goa",Men Perfumes,6.25
+2026-03-10,"Calungute, Goa",Men Perfumes,6.25
+2026-03-17,"Calungute, Goa",Men Perfumes,6.25
+2026-03-24,"Calungute, Goa",Men Perfumes,6.25
+2026-03-03,"Calungute, Goa",Oversized T-Shirts,5.0
+2026-03-10,"Calungute, Goa",Oversized T-Shirts,5.0
+2026-03-17,"Calungute, Goa",Oversized T-Shirts,5.0
+2026-03-24,"Calungute, Goa",Oversized T-Shirts,5.0
+2026-03-03,"City Mall, Kota",Oversized T-Shirts,1.0
+2026-03-10,"City Mall, Kota",Oversized T-Shirts,1.0
+2026-03-17,"City Mall, Kota",Oversized T-Shirts,1.0
+2026-03-24,"City Mall, Kota",Oversized T-Shirts,1.0
+2026-03-03,"Civil Lines, Prayagraj",Cotton Linen Shirts,2.0
+2026-03-10,"Civil Lines, Prayagraj",Cotton Linen Shirts,2.0
+2026-03-17,"Civil Lines, Prayagraj",Cotton Linen Shirts,2.0
+2026-03-24,"Civil Lines, Prayagraj",Cotton Linen Shirts,2.0
+2026-03-03,"Civil Lines, Prayagraj",Men Perfumes,3.0
+2026-03-10,"Civil Lines, Prayagraj",Men Perfumes,3.0
+2026-03-17,"Civil Lines, Prayagraj",Men Perfumes,3.0
+2026-03-24,"Civil Lines, Prayagraj",Men Perfumes,3.0
+2026-03-03,"Civil Lines, Prayagraj",Oversized T-Shirts,4.0
+2026-03-10,"Civil Lines, Prayagraj",Oversized T-Shirts,4.0
+2026-03-17,"Civil Lines, Prayagraj",Oversized T-Shirts,4.0
+2026-03-24,"Civil Lines, Prayagraj",Oversized T-Shirts,4.0
+2026-03-03,"Colaba Causeway, Mumbai",Cotton Linen Shirts,3.75
+2026-03-10,"Colaba Causeway, Mumbai",Cotton Linen Shirts,3.75
+2026-03-17,"Colaba Causeway, Mumbai",Cotton Linen Shirts,3.75
+2026-03-24,"Colaba Causeway, Mumbai",Cotton Linen Shirts,3.75
+2026-03-03,"Colaba Causeway, Mumbai",Men Perfumes,11.5
+2026-03-10,"Colaba Causeway, Mumbai",Men Perfumes,11.5
+2026-03-17,"Colaba Causeway, Mumbai",Men Perfumes,11.5
+2026-03-24,"Colaba Causeway, Mumbai",Men Perfumes,11.5
+2026-03-03,"Colaba Causeway, Mumbai",Oversized T-Shirts,16.25
+2026-03-10,"Colaba Causeway, Mumbai",Oversized T-Shirts,16.25
+2026-03-17,"Colaba Causeway, Mumbai",Oversized T-Shirts,16.25
+2026-03-24,"Colaba Causeway, Mumbai",Oversized T-Shirts,16.25
+2026-03-03,"DB City Mall, Bhopal",Cotton Linen Shirts,2.25
+2026-03-10,"DB City Mall, Bhopal",Cotton Linen Shirts,2.25
+2026-03-17,"DB City Mall, Bhopal",Cotton Linen Shirts,2.25
+2026-03-24,"DB City Mall, Bhopal",Cotton Linen Shirts,2.25
+2026-03-03,"DB City Mall, Bhopal",Men Perfumes,1.75
+2026-03-10,"DB City Mall, Bhopal",Men Perfumes,1.75
+2026-03-17,"DB City Mall, Bhopal",Men Perfumes,1.75
+2026-03-24,"DB City Mall, Bhopal",Men Perfumes,1.75
+2026-03-03,"DB City Mall, Bhopal",Oversized T-Shirts,7.25
+2026-03-10,"DB City Mall, Bhopal",Oversized T-Shirts,7.25
+2026-03-17,"DB City Mall, Bhopal",Oversized T-Shirts,7.25
+2026-03-24,"DB City Mall, Bhopal",Oversized T-Shirts,7.25
+2026-03-03,DW1 - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,164.75
+2026-03-10,DW1 - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,164.75
+2026-03-17,DW1 - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,164.75
+2026-03-24,DW1 - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,164.75
+2026-03-03,DW1 - The Souled Store Pvt. Ltd.,Men Perfumes,1.0
+2026-03-10,DW1 - The Souled Store Pvt. Ltd.,Men Perfumes,1.0
+2026-03-17,DW1 - The Souled Store Pvt. Ltd.,Men Perfumes,1.0
+2026-03-24,DW1 - The Souled Store Pvt. Ltd.,Men Perfumes,1.0
+2026-03-03,DW1 - The Souled Store Pvt. Ltd.,Oversized T-Shirts,158.75
+2026-03-10,DW1 - The Souled Store Pvt. Ltd.,Oversized T-Shirts,158.75
+2026-03-17,DW1 - The Souled Store Pvt. Ltd.,Oversized T-Shirts,158.75
+2026-03-24,DW1 - The Souled Store Pvt. Ltd.,Oversized T-Shirts,158.75
+2026-03-03,"Dahisar, Mumbai",Cotton Linen Shirts,1.75
+2026-03-10,"Dahisar, Mumbai",Cotton Linen Shirts,1.75
+2026-03-17,"Dahisar, Mumbai",Cotton Linen Shirts,1.75
+2026-03-24,"Dahisar, Mumbai",Cotton Linen Shirts,1.75
+2026-03-03,"Dahisar, Mumbai",Men Perfumes,12.0
+2026-03-10,"Dahisar, Mumbai",Men Perfumes,12.0
+2026-03-17,"Dahisar, Mumbai",Men Perfumes,12.0
+2026-03-24,"Dahisar, Mumbai",Men Perfumes,12.0
+2026-03-03,"Dahisar, Mumbai",Oversized T-Shirts,10.5
+2026-03-10,"Dahisar, Mumbai",Oversized T-Shirts,10.5
+2026-03-17,"Dahisar, Mumbai",Oversized T-Shirts,10.5
+2026-03-24,"Dahisar, Mumbai",Oversized T-Shirts,10.5
+2026-03-03,"Elan Miracle Mall, Gurgaon",Cotton Linen Shirts,4.0
+2026-03-10,"Elan Miracle Mall, Gurgaon",Cotton Linen Shirts,4.0
+2026-03-17,"Elan Miracle Mall, Gurgaon",Cotton Linen Shirts,4.0
+2026-03-24,"Elan Miracle Mall, Gurgaon",Cotton Linen Shirts,4.0
+2026-03-03,"Elan Miracle Mall, Gurgaon",Men Perfumes,2.25
+2026-03-10,"Elan Miracle Mall, Gurgaon",Men Perfumes,2.25
+2026-03-17,"Elan Miracle Mall, Gurgaon",Men Perfumes,2.25
+2026-03-24,"Elan Miracle Mall, Gurgaon",Men Perfumes,2.25
+2026-03-03,"Elan Miracle Mall, Gurgaon",Oversized T-Shirts,3.75
+2026-03-10,"Elan Miracle Mall, Gurgaon",Oversized T-Shirts,3.75
+2026-03-17,"Elan Miracle Mall, Gurgaon",Oversized T-Shirts,3.75
+2026-03-24,"Elan Miracle Mall, Gurgaon",Oversized T-Shirts,3.75
+2026-03-03,"Express Avenue Mall, Chennai",Cotton Linen Shirts,4.5
+2026-03-10,"Express Avenue Mall, Chennai",Cotton Linen Shirts,4.5
+2026-03-17,"Express Avenue Mall, Chennai",Cotton Linen Shirts,4.5
+2026-03-24,"Express Avenue Mall, Chennai",Cotton Linen Shirts,4.5
+2026-03-03,"Express Avenue Mall, Chennai",Men Perfumes,8.25
+2026-03-10,"Express Avenue Mall, Chennai",Men Perfumes,8.25
+2026-03-17,"Express Avenue Mall, Chennai",Men Perfumes,8.25
+2026-03-24,"Express Avenue Mall, Chennai",Men Perfumes,8.25
+2026-03-03,"Express Avenue Mall, Chennai",Oversized T-Shirts,4.5
+2026-03-10,"Express Avenue Mall, Chennai",Oversized T-Shirts,4.5
+2026-03-17,"Express Avenue Mall, Chennai",Oversized T-Shirts,4.5
+2026-03-24,"Express Avenue Mall, Chennai",Oversized T-Shirts,4.5
+2026-03-03,"FC Road, Pune",Cotton Linen Shirts,1.5
+2026-03-10,"FC Road, Pune",Cotton Linen Shirts,1.5
+2026-03-17,"FC Road, Pune",Cotton Linen Shirts,1.5
+2026-03-24,"FC Road, Pune",Cotton Linen Shirts,1.5
+2026-03-03,"FC Road, Pune",Men Perfumes,8.25
+2026-03-10,"FC Road, Pune",Men Perfumes,8.25
+2026-03-17,"FC Road, Pune",Men Perfumes,8.25
+2026-03-24,"FC Road, Pune",Men Perfumes,8.25
+2026-03-03,"FC Road, Pune",Oversized T-Shirts,19.0
+2026-03-10,"FC Road, Pune",Oversized T-Shirts,19.0
+2026-03-17,"FC Road, Pune",Oversized T-Shirts,19.0
+2026-03-24,"FC Road, Pune",Oversized T-Shirts,19.0
+2026-03-03,"Gokulam Galleria Mall, Kozhikode",Cotton Linen Shirts,0.5
+2026-03-10,"Gokulam Galleria Mall, Kozhikode",Cotton Linen Shirts,0.5
+2026-03-17,"Gokulam Galleria Mall, Kozhikode",Cotton Linen Shirts,0.5
+2026-03-24,"Gokulam Galleria Mall, Kozhikode",Cotton Linen Shirts,0.5
+2026-03-03,"Gokulam Galleria Mall, Kozhikode",Men Perfumes,2.0
+2026-03-10,"Gokulam Galleria Mall, Kozhikode",Men Perfumes,2.0
+2026-03-17,"Gokulam Galleria Mall, Kozhikode",Men Perfumes,2.0
+2026-03-24,"Gokulam Galleria Mall, Kozhikode",Men Perfumes,2.0
+2026-03-03,"Gokulam Galleria Mall, Kozhikode",Oversized T-Shirts,1.75
+2026-03-10,"Gokulam Galleria Mall, Kozhikode",Oversized T-Shirts,1.75
+2026-03-17,"Gokulam Galleria Mall, Kozhikode",Oversized T-Shirts,1.75
+2026-03-24,"Gokulam Galleria Mall, Kozhikode",Oversized T-Shirts,1.75
+2026-03-03,Headoffice - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,0.0
+2026-03-10,Headoffice - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,0.0
+2026-03-17,Headoffice - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,0.0
+2026-03-24,Headoffice - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,0.0
+2026-03-03,Headoffice - The Souled Store Pvt. Ltd.,Men Perfumes,0.0
+2026-03-10,Headoffice - The Souled Store Pvt. Ltd.,Men Perfumes,0.0
+2026-03-17,Headoffice - The Souled Store Pvt. Ltd.,Men Perfumes,0.0
+2026-03-24,Headoffice - The Souled Store Pvt. Ltd.,Men Perfumes,0.0
+2026-03-03,Headoffice - The Souled Store Pvt. Ltd.,Oversized T-Shirts,0.0
+2026-03-10,Headoffice - The Souled Store Pvt. Ltd.,Oversized T-Shirts,0.0
+2026-03-17,Headoffice - The Souled Store Pvt. Ltd.,Oversized T-Shirts,0.0
+2026-03-24,Headoffice - The Souled Store Pvt. Ltd.,Oversized T-Shirts,0.0
+2026-03-03,"Indiranagar, Bangalore",Cotton Linen Shirts,3.25
+2026-03-10,"Indiranagar, Bangalore",Cotton Linen Shirts,3.25
+2026-03-17,"Indiranagar, Bangalore",Cotton Linen Shirts,3.25
+2026-03-24,"Indiranagar, Bangalore",Cotton Linen Shirts,3.25
+2026-03-03,"Indiranagar, Bangalore",Men Perfumes,5.75
+2026-03-10,"Indiranagar, Bangalore",Men Perfumes,5.75
+2026-03-17,"Indiranagar, Bangalore",Men Perfumes,5.75
+2026-03-24,"Indiranagar, Bangalore",Men Perfumes,5.75
+2026-03-03,"Indiranagar, Bangalore",Oversized T-Shirts,11.25
+2026-03-10,"Indiranagar, Bangalore",Oversized T-Shirts,11.25
+2026-03-17,"Indiranagar, Bangalore",Oversized T-Shirts,11.25
+2026-03-24,"Indiranagar, Bangalore",Oversized T-Shirts,11.25
+2026-03-03,"Infiniti Mall Malad, Mumbai",Cotton Linen Shirts,2.75
+2026-03-10,"Infiniti Mall Malad, Mumbai",Cotton Linen Shirts,2.75
+2026-03-17,"Infiniti Mall Malad, Mumbai",Cotton Linen Shirts,2.75
+2026-03-24,"Infiniti Mall Malad, Mumbai",Cotton Linen Shirts,2.75
+2026-03-03,"Infiniti Mall Malad, Mumbai",Men Perfumes,4.0
+2026-03-10,"Infiniti Mall Malad, Mumbai",Men Perfumes,4.0
+2026-03-17,"Infiniti Mall Malad, Mumbai",Men Perfumes,4.0
+2026-03-24,"Infiniti Mall Malad, Mumbai",Men Perfumes,4.0
+2026-03-03,"Infiniti Mall Malad, Mumbai",Oversized T-Shirts,5.0
+2026-03-10,"Infiniti Mall Malad, Mumbai",Oversized T-Shirts,5.0
+2026-03-17,"Infiniti Mall Malad, Mumbai",Oversized T-Shirts,5.0
+2026-03-24,"Infiniti Mall Malad, Mumbai",Oversized T-Shirts,5.0
+2026-03-03,"Jubilee Hills, Hyderabad",Cotton Linen Shirts,1.0
+2026-03-10,"Jubilee Hills, Hyderabad",Cotton Linen Shirts,1.0
+2026-03-17,"Jubilee Hills, Hyderabad",Cotton Linen Shirts,1.0
+2026-03-24,"Jubilee Hills, Hyderabad",Cotton Linen Shirts,1.0
+2026-03-03,"Jubilee Hills, Hyderabad",Men Perfumes,2.25
+2026-03-10,"Jubilee Hills, Hyderabad",Men Perfumes,2.25
+2026-03-17,"Jubilee Hills, Hyderabad",Men Perfumes,2.25
+2026-03-24,"Jubilee Hills, Hyderabad",Men Perfumes,2.25
+2026-03-03,"Jubilee Hills, Hyderabad",Oversized T-Shirts,1.5
+2026-03-10,"Jubilee Hills, Hyderabad",Oversized T-Shirts,1.5
+2026-03-17,"Jubilee Hills, Hyderabad",Oversized T-Shirts,1.5
+2026-03-24,"Jubilee Hills, Hyderabad",Oversized T-Shirts,1.5
+2026-03-03,K Street - Hubballi,Men Perfumes,3.75
+2026-03-10,K Street - Hubballi,Men Perfumes,3.75
+2026-03-17,K Street - Hubballi,Men Perfumes,3.75
+2026-03-24,K Street - Hubballi,Men Perfumes,3.75
+2026-03-03,"K Street, Hubballi",Men Perfumes,1.25
+2026-03-10,"K Street, Hubballi",Men Perfumes,1.25
+2026-03-17,"K Street, Hubballi",Men Perfumes,1.25
+2026-03-24,"K Street, Hubballi",Men Perfumes,1.25
+2026-03-03,"Kamla Nagar, Delhi",Cotton Linen Shirts,1.75
+2026-03-10,"Kamla Nagar, Delhi",Cotton Linen Shirts,1.75
+2026-03-17,"Kamla Nagar, Delhi",Cotton Linen Shirts,1.75
+2026-03-24,"Kamla Nagar, Delhi",Cotton Linen Shirts,1.75
+2026-03-03,"Kamla Nagar, Delhi",Men Perfumes,3.0
+2026-03-10,"Kamla Nagar, Delhi",Men Perfumes,3.0
+2026-03-17,"Kamla Nagar, Delhi",Men Perfumes,3.0
+2026-03-24,"Kamla Nagar, Delhi",Men Perfumes,3.0
+2026-03-03,"Kamla Nagar, Delhi",Oversized T-Shirts,3.5
+2026-03-10,"Kamla Nagar, Delhi",Oversized T-Shirts,3.5
+2026-03-17,"Kamla Nagar, Delhi",Oversized T-Shirts,3.5
+2026-03-24,"Kamla Nagar, Delhi",Oversized T-Shirts,3.5
+2026-03-03,"Karol Bagh, Delhi",Men Perfumes,3.5
+2026-03-10,"Karol Bagh, Delhi",Men Perfumes,3.5
+2026-03-17,"Karol Bagh, Delhi",Men Perfumes,3.5
+2026-03-24,"Karol Bagh, Delhi",Men Perfumes,3.5
+2026-03-03,"Lajpat Nagar, Delhi",Men Perfumes,2.0
+2026-03-10,"Lajpat Nagar, Delhi",Men Perfumes,2.0
+2026-03-17,"Lajpat Nagar, Delhi",Men Perfumes,2.0
+2026-03-24,"Lajpat Nagar, Delhi",Men Perfumes,2.0
+2026-03-03,"Lajpat Nagar, Delhi",Oversized T-Shirts,3.25
+2026-03-10,"Lajpat Nagar, Delhi",Oversized T-Shirts,3.25
+2026-03-17,"Lajpat Nagar, Delhi",Oversized T-Shirts,3.25
+2026-03-24,"Lajpat Nagar, Delhi",Oversized T-Shirts,3.25
+2026-03-03,"Landmark, Gandhinagar",Cotton Linen Shirts,1.5
+2026-03-10,"Landmark, Gandhinagar",Cotton Linen Shirts,1.5
+2026-03-17,"Landmark, Gandhinagar",Cotton Linen Shirts,1.5
+2026-03-24,"Landmark, Gandhinagar",Cotton Linen Shirts,1.5
+2026-03-03,"Landmark, Gandhinagar",Men Perfumes,1.25
+2026-03-10,"Landmark, Gandhinagar",Men Perfumes,1.25
+2026-03-17,"Landmark, Gandhinagar",Men Perfumes,1.25
+2026-03-24,"Landmark, Gandhinagar",Men Perfumes,1.25
+2026-03-03,"Landmark, Gandhinagar",Oversized T-Shirts,6.0
+2026-03-10,"Landmark, Gandhinagar",Oversized T-Shirts,6.0
+2026-03-17,"Landmark, Gandhinagar",Oversized T-Shirts,6.0
+2026-03-24,"Landmark, Gandhinagar",Oversized T-Shirts,6.0
+2026-03-03,"Lanka Road, Varanasi",Men Perfumes,5.25
+2026-03-10,"Lanka Road, Varanasi",Men Perfumes,5.25
+2026-03-17,"Lanka Road, Varanasi",Men Perfumes,5.25
+2026-03-24,"Lanka Road, Varanasi",Men Perfumes,5.25
+2026-03-03,"Lanka Road, Varanasi",Oversized T-Shirts,7.75
+2026-03-10,"Lanka Road, Varanasi",Oversized T-Shirts,7.75
+2026-03-17,"Lanka Road, Varanasi",Oversized T-Shirts,7.75
+2026-03-24,"Lanka Road, Varanasi",Oversized T-Shirts,7.75
+2026-03-03,"Lulu Mall, Lucknow",Cotton Linen Shirts,2.0
+2026-03-10,"Lulu Mall, Lucknow",Cotton Linen Shirts,2.0
+2026-03-17,"Lulu Mall, Lucknow",Cotton Linen Shirts,2.0
+2026-03-24,"Lulu Mall, Lucknow",Cotton Linen Shirts,2.0
+2026-03-03,"Lulu Mall, Lucknow",Men Perfumes,2.25
+2026-03-10,"Lulu Mall, Lucknow",Men Perfumes,2.25
+2026-03-17,"Lulu Mall, Lucknow",Men Perfumes,2.25
+2026-03-24,"Lulu Mall, Lucknow",Men Perfumes,2.25
+2026-03-03,"Lulu Mall, Lucknow",Oversized T-Shirts,3.75
+2026-03-10,"Lulu Mall, Lucknow",Oversized T-Shirts,3.75
+2026-03-17,"Lulu Mall, Lucknow",Oversized T-Shirts,3.75
+2026-03-24,"Lulu Mall, Lucknow",Oversized T-Shirts,3.75
+2026-03-03,"Lunsikui Road,Navsari",Men Perfumes,3.75
+2026-03-10,"Lunsikui Road,Navsari",Men Perfumes,3.75
+2026-03-17,"Lunsikui Road,Navsari",Men Perfumes,3.75
+2026-03-24,"Lunsikui Road,Navsari",Men Perfumes,3.75
+2026-03-03,"Lunsikui Road,Navsari",Oversized T-Shirts,7.5
+2026-03-10,"Lunsikui Road,Navsari",Oversized T-Shirts,7.5
+2026-03-17,"Lunsikui Road,Navsari",Oversized T-Shirts,7.5
+2026-03-24,"Lunsikui Road,Navsari",Oversized T-Shirts,7.5
+2026-03-03,"M5 Mall, Bangalore",Cotton Linen Shirts,0.5
+2026-03-10,"M5 Mall, Bangalore",Cotton Linen Shirts,0.5
+2026-03-17,"M5 Mall, Bangalore",Cotton Linen Shirts,0.5
+2026-03-24,"M5 Mall, Bangalore",Cotton Linen Shirts,0.5
+2026-03-03,"M5 Mall, Bangalore",Men Perfumes,4.25
+2026-03-10,"M5 Mall, Bangalore",Men Perfumes,4.25
+2026-03-17,"M5 Mall, Bangalore",Men Perfumes,4.25
+2026-03-24,"M5 Mall, Bangalore",Men Perfumes,4.25
+2026-03-03,"M5 Mall, Bangalore",Oversized T-Shirts,4.25
+2026-03-10,"M5 Mall, Bangalore",Oversized T-Shirts,4.25
+2026-03-17,"M5 Mall, Bangalore",Oversized T-Shirts,4.25
+2026-03-24,"M5 Mall, Bangalore",Oversized T-Shirts,4.25
+2026-03-03,"MBD Mall, Ludhiana",Men Perfumes,3.25
+2026-03-10,"MBD Mall, Ludhiana",Men Perfumes,3.25
+2026-03-17,"MBD Mall, Ludhiana",Men Perfumes,3.25
+2026-03-24,"MBD Mall, Ludhiana",Men Perfumes,3.25
+2026-03-03,MW1 - The Souled Store Pvt Ltd,Cotton Linen Shirts,524.5
+2026-03-10,MW1 - The Souled Store Pvt Ltd,Cotton Linen Shirts,524.5
+2026-03-17,MW1 - The Souled Store Pvt Ltd,Cotton Linen Shirts,524.5
+2026-03-24,MW1 - The Souled Store Pvt Ltd,Cotton Linen Shirts,524.5
+2026-03-03,MW1 - The Souled Store Pvt Ltd,Men Perfumes,69.25
+2026-03-10,MW1 - The Souled Store Pvt Ltd,Men Perfumes,69.25
+2026-03-17,MW1 - The Souled Store Pvt Ltd,Men Perfumes,69.25
+2026-03-24,MW1 - The Souled Store Pvt Ltd,Men Perfumes,69.25
+2026-03-03,MW1 - The Souled Store Pvt Ltd,Oversized T-Shirts,112.25
+2026-03-10,MW1 - The Souled Store Pvt Ltd,Oversized T-Shirts,112.25
+2026-03-17,MW1 - The Souled Store Pvt Ltd,Oversized T-Shirts,112.25
+2026-03-24,MW1 - The Souled Store Pvt Ltd,Oversized T-Shirts,112.25
+2026-03-03,MW3 - The Souled Store Pvt Ltd,Cotton Linen Shirts,0.5
+2026-03-10,MW3 - The Souled Store Pvt Ltd,Cotton Linen Shirts,0.5
+2026-03-17,MW3 - The Souled Store Pvt Ltd,Cotton Linen Shirts,0.5
+2026-03-24,MW3 - The Souled Store Pvt Ltd,Cotton Linen Shirts,0.5
+2026-03-03,MW3 - The Souled Store Pvt Ltd,Oversized T-Shirts,4.75
+2026-03-10,MW3 - The Souled Store Pvt Ltd,Oversized T-Shirts,4.75
+2026-03-17,MW3 - The Souled Store Pvt Ltd,Oversized T-Shirts,4.75
+2026-03-24,MW3 - The Souled Store Pvt Ltd,Oversized T-Shirts,4.75
+2026-03-03,"Magneto Mall, Raipur",Cotton Linen Shirts,2.25
+2026-03-10,"Magneto Mall, Raipur",Cotton Linen Shirts,2.25
+2026-03-17,"Magneto Mall, Raipur",Cotton Linen Shirts,2.25
+2026-03-24,"Magneto Mall, Raipur",Cotton Linen Shirts,2.25
+2026-03-03,"Magneto Mall, Raipur",Men Perfumes,3.75
+2026-03-10,"Magneto Mall, Raipur",Men Perfumes,3.75
+2026-03-17,"Magneto Mall, Raipur",Men Perfumes,3.75
+2026-03-24,"Magneto Mall, Raipur",Men Perfumes,3.75
+2026-03-03,"Magneto Mall, Raipur",Oversized T-Shirts,4.75
+2026-03-10,"Magneto Mall, Raipur",Oversized T-Shirts,4.75
+2026-03-17,"Magneto Mall, Raipur",Oversized T-Shirts,4.75
+2026-03-24,"Magneto Mall, Raipur",Oversized T-Shirts,4.75
+2026-03-03,"Mantri Square Mall, Bangalore",Cotton Linen Shirts,0.0
+2026-03-10,"Mantri Square Mall, Bangalore",Cotton Linen Shirts,0.0
+2026-03-17,"Mantri Square Mall, Bangalore",Cotton Linen Shirts,0.0
+2026-03-24,"Mantri Square Mall, Bangalore",Cotton Linen Shirts,0.0
+2026-03-03,"Mantri Square Mall, Bangalore",Men Perfumes,1.75
+2026-03-10,"Mantri Square Mall, Bangalore",Men Perfumes,1.75
+2026-03-17,"Mantri Square Mall, Bangalore",Men Perfumes,1.75
+2026-03-24,"Mantri Square Mall, Bangalore",Men Perfumes,1.75
+2026-03-03,"Mantri Square Mall, Bangalore",Oversized T-Shirts,7.5
+2026-03-10,"Mantri Square Mall, Bangalore",Oversized T-Shirts,7.5
+2026-03-17,"Mantri Square Mall, Bangalore",Oversized T-Shirts,7.5
+2026-03-24,"Mantri Square Mall, Bangalore",Oversized T-Shirts,7.5
+2026-03-03,"Motera, Ahmedabad",Men Perfumes,3.5
+2026-03-10,"Motera, Ahmedabad",Men Perfumes,3.5
+2026-03-17,"Motera, Ahmedabad",Men Perfumes,3.5
+2026-03-24,"Motera, Ahmedabad",Men Perfumes,3.5
+2026-03-03,"Motera, Ahmedabad",Oversized T-Shirts,2.75
+2026-03-10,"Motera, Ahmedabad",Oversized T-Shirts,2.75
+2026-03-17,"Motera, Ahmedabad",Oversized T-Shirts,2.75
+2026-03-24,"Motera, Ahmedabad",Oversized T-Shirts,2.75
+2026-03-03,"Nexus Seawoods Mall, Navi Mumbai",Cotton Linen Shirts,0.75
+2026-03-10,"Nexus Seawoods Mall, Navi Mumbai",Cotton Linen Shirts,0.75
+2026-03-17,"Nexus Seawoods Mall, Navi Mumbai",Cotton Linen Shirts,0.75
+2026-03-24,"Nexus Seawoods Mall, Navi Mumbai",Cotton Linen Shirts,0.75
+2026-03-03,"Nexus Seawoods Mall, Navi Mumbai",Men Perfumes,7.75
+2026-03-10,"Nexus Seawoods Mall, Navi Mumbai",Men Perfumes,7.75
+2026-03-17,"Nexus Seawoods Mall, Navi Mumbai",Men Perfumes,7.75
+2026-03-24,"Nexus Seawoods Mall, Navi Mumbai",Men Perfumes,7.75
+2026-03-03,"Nexus Seawoods Mall, Navi Mumbai",Oversized T-Shirts,9.25
+2026-03-10,"Nexus Seawoods Mall, Navi Mumbai",Oversized T-Shirts,9.25
+2026-03-17,"Nexus Seawoods Mall, Navi Mumbai",Oversized T-Shirts,9.25
+2026-03-24,"Nexus Seawoods Mall, Navi Mumbai",Oversized T-Shirts,9.25
+2026-03-03,"Oberoi Mall, Mumbai",Cotton Linen Shirts,2.0
+2026-03-10,"Oberoi Mall, Mumbai",Cotton Linen Shirts,2.0
+2026-03-17,"Oberoi Mall, Mumbai",Cotton Linen Shirts,2.0
+2026-03-24,"Oberoi Mall, Mumbai",Cotton Linen Shirts,2.0
+2026-03-03,"Oberoi Mall, Mumbai",Men Perfumes,3.5
+2026-03-10,"Oberoi Mall, Mumbai",Men Perfumes,3.5
+2026-03-17,"Oberoi Mall, Mumbai",Men Perfumes,3.5
+2026-03-24,"Oberoi Mall, Mumbai",Men Perfumes,3.5
+2026-03-03,"Oberoi Mall, Mumbai",Oversized T-Shirts,6.25
+2026-03-10,"Oberoi Mall, Mumbai",Oversized T-Shirts,6.25
+2026-03-17,"Oberoi Mall, Mumbai",Oversized T-Shirts,6.25
+2026-03-24,"Oberoi Mall, Mumbai",Oversized T-Shirts,6.25
+2026-03-03,"Orion Mall, Bangalore",Cotton Linen Shirts,4.25
+2026-03-10,"Orion Mall, Bangalore",Cotton Linen Shirts,4.25
+2026-03-17,"Orion Mall, Bangalore",Cotton Linen Shirts,4.25
+2026-03-24,"Orion Mall, Bangalore",Cotton Linen Shirts,4.25
+2026-03-03,"Orion Mall, Bangalore",Men Perfumes,4.0
+2026-03-10,"Orion Mall, Bangalore",Men Perfumes,4.0
+2026-03-17,"Orion Mall, Bangalore",Men Perfumes,4.0
+2026-03-24,"Orion Mall, Bangalore",Men Perfumes,4.0
+2026-03-03,"PRM Centrepoint Mall, Malda",Men Perfumes,1.75
+2026-03-10,"PRM Centrepoint Mall, Malda",Men Perfumes,1.75
+2026-03-17,"PRM Centrepoint Mall, Malda",Men Perfumes,1.75
+2026-03-24,"PRM Centrepoint Mall, Malda",Men Perfumes,1.75
+2026-03-03,"Pacific Mall of Dehradun, Dehradun",Men Perfumes,2.75
+2026-03-10,"Pacific Mall of Dehradun, Dehradun",Men Perfumes,2.75
+2026-03-17,"Pacific Mall of Dehradun, Dehradun",Men Perfumes,2.75
+2026-03-24,"Pacific Mall of Dehradun, Dehradun",Men Perfumes,2.75
+2026-03-03,"Pacific Mall of Dehradun, Dehradun",Oversized T-Shirts,4.75
+2026-03-10,"Pacific Mall of Dehradun, Dehradun",Oversized T-Shirts,4.75
+2026-03-17,"Pacific Mall of Dehradun, Dehradun",Oversized T-Shirts,4.75
+2026-03-24,"Pacific Mall of Dehradun, Dehradun",Oversized T-Shirts,4.75
+2026-03-03,"Park Street, Kolkata",Cotton Linen Shirts,3.0
+2026-03-10,"Park Street, Kolkata",Cotton Linen Shirts,3.0
+2026-03-17,"Park Street, Kolkata",Cotton Linen Shirts,3.0
+2026-03-24,"Park Street, Kolkata",Cotton Linen Shirts,3.0
+2026-03-03,"Park Street, Kolkata",Men Perfumes,4.25
+2026-03-10,"Park Street, Kolkata",Men Perfumes,4.25
+2026-03-17,"Park Street, Kolkata",Men Perfumes,4.25
+2026-03-24,"Park Street, Kolkata",Men Perfumes,4.25
+2026-03-03,"Park Street, Kolkata",Oversized T-Shirts,2.5
+2026-03-10,"Park Street, Kolkata",Oversized T-Shirts,2.5
+2026-03-17,"Park Street, Kolkata",Oversized T-Shirts,2.5
+2026-03-24,"Park Street, Kolkata",Oversized T-Shirts,2.5
+2026-03-03,"Paschim Vihar, Delhi",Cotton Linen Shirts,1.0
+2026-03-10,"Paschim Vihar, Delhi",Cotton Linen Shirts,1.0
+2026-03-17,"Paschim Vihar, Delhi",Cotton Linen Shirts,1.0
+2026-03-24,"Paschim Vihar, Delhi",Cotton Linen Shirts,1.0
+2026-03-03,"Paschim Vihar, Delhi",Men Perfumes,2.5
+2026-03-10,"Paschim Vihar, Delhi",Men Perfumes,2.5
+2026-03-17,"Paschim Vihar, Delhi",Men Perfumes,2.5
+2026-03-24,"Paschim Vihar, Delhi",Men Perfumes,2.5
+2026-03-03,"Paschim Vihar, Delhi",Oversized T-Shirts,4.5
+2026-03-10,"Paschim Vihar, Delhi",Oversized T-Shirts,4.5
+2026-03-17,"Paschim Vihar, Delhi",Oversized T-Shirts,4.5
+2026-03-24,"Paschim Vihar, Delhi",Oversized T-Shirts,4.5
+2026-03-03,"Phoenix Citadel Mall, Indore",Cotton Linen Shirts,2.25
+2026-03-10,"Phoenix Citadel Mall, Indore",Cotton Linen Shirts,2.25
+2026-03-17,"Phoenix Citadel Mall, Indore",Cotton Linen Shirts,2.25
+2026-03-24,"Phoenix Citadel Mall, Indore",Cotton Linen Shirts,2.25
+2026-03-03,"Phoenix Citadel Mall, Indore",Men Perfumes,4.0
+2026-03-10,"Phoenix Citadel Mall, Indore",Men Perfumes,4.0
+2026-03-17,"Phoenix Citadel Mall, Indore",Men Perfumes,4.0
+2026-03-24,"Phoenix Citadel Mall, Indore",Men Perfumes,4.0
+2026-03-03,"Phoenix Citadel Mall, Indore",Oversized T-Shirts,3.5
+2026-03-10,"Phoenix Citadel Mall, Indore",Oversized T-Shirts,3.5
+2026-03-17,"Phoenix Citadel Mall, Indore",Oversized T-Shirts,3.5
+2026-03-24,"Phoenix Citadel Mall, Indore",Oversized T-Shirts,3.5
+2026-03-03,"Phoenix Mall of Millennium Wakad, Pune",Cotton Linen Shirts,3.5
+2026-03-10,"Phoenix Mall of Millennium Wakad, Pune",Cotton Linen Shirts,3.5
+2026-03-17,"Phoenix Mall of Millennium Wakad, Pune",Cotton Linen Shirts,3.5
+2026-03-24,"Phoenix Mall of Millennium Wakad, Pune",Cotton Linen Shirts,3.5
+2026-03-03,"Phoenix Mall of Millennium Wakad, Pune",Men Perfumes,3.0
+2026-03-10,"Phoenix Mall of Millennium Wakad, Pune",Men Perfumes,3.0
+2026-03-17,"Phoenix Mall of Millennium Wakad, Pune",Men Perfumes,3.0
+2026-03-24,"Phoenix Mall of Millennium Wakad, Pune",Men Perfumes,3.0
+2026-03-03,"Phoenix Mall of Millennium Wakad, Pune",Oversized T-Shirts,7.75
+2026-03-10,"Phoenix Mall of Millennium Wakad, Pune",Oversized T-Shirts,7.75
+2026-03-17,"Phoenix Mall of Millennium Wakad, Pune",Oversized T-Shirts,7.75
+2026-03-24,"Phoenix Mall of Millennium Wakad, Pune",Oversized T-Shirts,7.75
+2026-03-03,"Phoenix Marketcity Mall, Chennai",Cotton Linen Shirts,3.25
+2026-03-10,"Phoenix Marketcity Mall, Chennai",Cotton Linen Shirts,3.25
+2026-03-17,"Phoenix Marketcity Mall, Chennai",Cotton Linen Shirts,3.25
+2026-03-24,"Phoenix Marketcity Mall, Chennai",Cotton Linen Shirts,3.25
+2026-03-03,"Phoenix Marketcity Mall, Chennai",Men Perfumes,2.5
+2026-03-10,"Phoenix Marketcity Mall, Chennai",Men Perfumes,2.5
+2026-03-17,"Phoenix Marketcity Mall, Chennai",Men Perfumes,2.5
+2026-03-24,"Phoenix Marketcity Mall, Chennai",Men Perfumes,2.5
+2026-03-03,"Phoenix Marketcity Mall, Chennai",Oversized T-Shirts,8.5
+2026-03-10,"Phoenix Marketcity Mall, Chennai",Oversized T-Shirts,8.5
+2026-03-17,"Phoenix Marketcity Mall, Chennai",Oversized T-Shirts,8.5
+2026-03-24,"Phoenix Marketcity Mall, Chennai",Oversized T-Shirts,8.5
+2026-03-03,"Phoenix Marketcity Mall, Pune",Cotton Linen Shirts,3.5
+2026-03-10,"Phoenix Marketcity Mall, Pune",Cotton Linen Shirts,3.5
+2026-03-17,"Phoenix Marketcity Mall, Pune",Cotton Linen Shirts,3.5
+2026-03-24,"Phoenix Marketcity Mall, Pune",Cotton Linen Shirts,3.5
+2026-03-03,"Phoenix Marketcity Mall, Pune",Men Perfumes,4.25
+2026-03-10,"Phoenix Marketcity Mall, Pune",Men Perfumes,4.25
+2026-03-17,"Phoenix Marketcity Mall, Pune",Men Perfumes,4.25
+2026-03-24,"Phoenix Marketcity Mall, Pune",Men Perfumes,4.25
+2026-03-03,"Phoenix Marketcity Mall, Pune",Oversized T-Shirts,0.25
+2026-03-10,"Phoenix Marketcity Mall, Pune",Oversized T-Shirts,0.25
+2026-03-17,"Phoenix Marketcity Mall, Pune",Oversized T-Shirts,0.25
+2026-03-24,"Phoenix Marketcity Mall, Pune",Oversized T-Shirts,0.25
+2026-03-03,"Phoenix Palladium Mall, Ahmedabad",Cotton Linen Shirts,3.5
+2026-03-10,"Phoenix Palladium Mall, Ahmedabad",Cotton Linen Shirts,3.5
+2026-03-17,"Phoenix Palladium Mall, Ahmedabad",Cotton Linen Shirts,3.5
+2026-03-24,"Phoenix Palladium Mall, Ahmedabad",Cotton Linen Shirts,3.5
+2026-03-03,"Phoenix Palladium Mall, Ahmedabad",Men Perfumes,2.75
+2026-03-10,"Phoenix Palladium Mall, Ahmedabad",Men Perfumes,2.75
+2026-03-17,"Phoenix Palladium Mall, Ahmedabad",Men Perfumes,2.75
+2026-03-24,"Phoenix Palladium Mall, Ahmedabad",Men Perfumes,2.75
+2026-03-03,"Phoenix Palladium Mall, Ahmedabad",Oversized T-Shirts,9.0
+2026-03-10,"Phoenix Palladium Mall, Ahmedabad",Oversized T-Shirts,9.0
+2026-03-17,"Phoenix Palladium Mall, Ahmedabad",Oversized T-Shirts,9.0
+2026-03-24,"Phoenix Palladium Mall, Ahmedabad",Oversized T-Shirts,9.0
+2026-03-03,"Phoenix Palladium Mall, Mumbai",Cotton Linen Shirts,3.25
+2026-03-10,"Phoenix Palladium Mall, Mumbai",Cotton Linen Shirts,3.25
+2026-03-17,"Phoenix Palladium Mall, Mumbai",Cotton Linen Shirts,3.25
+2026-03-24,"Phoenix Palladium Mall, Mumbai",Cotton Linen Shirts,3.25
+2026-03-03,"R City Mall, Mumbai",Cotton Linen Shirts,3.5
+2026-03-10,"R City Mall, Mumbai",Cotton Linen Shirts,3.5
+2026-03-17,"R City Mall, Mumbai",Cotton Linen Shirts,3.5
+2026-03-24,"R City Mall, Mumbai",Cotton Linen Shirts,3.5
+2026-03-03,"R City Mall, Mumbai",Men Perfumes,5.75
+2026-03-10,"R City Mall, Mumbai",Men Perfumes,5.75
+2026-03-17,"R City Mall, Mumbai",Men Perfumes,5.75
+2026-03-24,"R City Mall, Mumbai",Men Perfumes,5.75
+2026-03-03,"R City Mall, Mumbai",Oversized T-Shirts,26.0
+2026-03-10,"R City Mall, Mumbai",Oversized T-Shirts,26.0
+2026-03-17,"R City Mall, Mumbai",Oversized T-Shirts,26.0
+2026-03-24,"R City Mall, Mumbai",Oversized T-Shirts,26.0
+2026-03-03,"Rajpur Road, Dehradhun",Men Perfumes,5.0
+2026-03-10,"Rajpur Road, Dehradhun",Men Perfumes,5.0
+2026-03-17,"Rajpur Road, Dehradhun",Men Perfumes,5.0
+2026-03-24,"Rajpur Road, Dehradhun",Men Perfumes,5.0
+2026-03-03,"Sarabhai Road, Vadodara",Cotton Linen Shirts,1.0
+2026-03-10,"Sarabhai Road, Vadodara",Cotton Linen Shirts,1.0
+2026-03-17,"Sarabhai Road, Vadodara",Cotton Linen Shirts,1.0
+2026-03-24,"Sarabhai Road, Vadodara",Cotton Linen Shirts,1.0
+2026-03-03,"Sarabhai Road, Vadodara",Men Perfumes,5.0
+2026-03-10,"Sarabhai Road, Vadodara",Men Perfumes,5.0
+2026-03-17,"Sarabhai Road, Vadodara",Men Perfumes,5.0
+2026-03-24,"Sarabhai Road, Vadodara",Men Perfumes,5.0
+2026-03-03,"Sarabhai Road, Vadodara",Oversized T-Shirts,3.25
+2026-03-10,"Sarabhai Road, Vadodara",Oversized T-Shirts,3.25
+2026-03-17,"Sarabhai Road, Vadodara",Oversized T-Shirts,3.25
+2026-03-24,"Sarabhai Road, Vadodara",Oversized T-Shirts,3.25
+2026-03-03,"Sarath City Mall, Hyderabad",Cotton Linen Shirts,0.25
+2026-03-10,"Sarath City Mall, Hyderabad",Cotton Linen Shirts,0.25
+2026-03-17,"Sarath City Mall, Hyderabad",Cotton Linen Shirts,0.25
+2026-03-24,"Sarath City Mall, Hyderabad",Cotton Linen Shirts,0.25
+2026-03-03,"Sarath City Mall, Hyderabad",Men Perfumes,5.75
+2026-03-10,"Sarath City Mall, Hyderabad",Men Perfumes,5.75
+2026-03-17,"Sarath City Mall, Hyderabad",Men Perfumes,5.75
+2026-03-24,"Sarath City Mall, Hyderabad",Men Perfumes,5.75
+2026-03-03,"Sarath City Mall, Hyderabad",Oversized T-Shirts,28.25
+2026-03-10,"Sarath City Mall, Hyderabad",Oversized T-Shirts,28.25
+2026-03-17,"Sarath City Mall, Hyderabad",Oversized T-Shirts,28.25
+2026-03-24,"Sarath City Mall, Hyderabad",Oversized T-Shirts,28.25
+2026-03-03,"Sarjapur Road, Bengaluru",Men Perfumes,4.0
+2026-03-10,"Sarjapur Road, Bengaluru",Men Perfumes,4.0
+2026-03-17,"Sarjapur Road, Bengaluru",Men Perfumes,4.0
+2026-03-24,"Sarjapur Road, Bengaluru",Men Perfumes,4.0
+2026-03-03,"Sarjapur Road, Bengaluru",Oversized T-Shirts,6.0
+2026-03-10,"Sarjapur Road, Bengaluru",Oversized T-Shirts,6.0
+2026-03-17,"Sarjapur Road, Bengaluru",Oversized T-Shirts,6.0
+2026-03-24,"Sarjapur Road, Bengaluru",Oversized T-Shirts,6.0
+2026-03-03,"Select Citywalk Mall, Delhi",Cotton Linen Shirts,2.25
+2026-03-10,"Select Citywalk Mall, Delhi",Cotton Linen Shirts,2.25
+2026-03-17,"Select Citywalk Mall, Delhi",Cotton Linen Shirts,2.25
+2026-03-24,"Select Citywalk Mall, Delhi",Cotton Linen Shirts,2.25
+2026-03-03,"Select Citywalk Mall, Delhi",Men Perfumes,3.0
+2026-03-10,"Select Citywalk Mall, Delhi",Men Perfumes,3.0
+2026-03-17,"Select Citywalk Mall, Delhi",Men Perfumes,3.0
+2026-03-24,"Select Citywalk Mall, Delhi",Men Perfumes,3.0
+2026-03-03,"Select Citywalk Mall, Delhi",Oversized T-Shirts,6.25
+2026-03-10,"Select Citywalk Mall, Delhi",Oversized T-Shirts,6.25
+2026-03-17,"Select Citywalk Mall, Delhi",Oversized T-Shirts,6.25
+2026-03-24,"Select Citywalk Mall, Delhi",Oversized T-Shirts,6.25
+2026-03-03,"Shayamal Iconic, Ahmedabad",Cotton Linen Shirts,2.25
+2026-03-10,"Shayamal Iconic, Ahmedabad",Cotton Linen Shirts,2.25
+2026-03-17,"Shayamal Iconic, Ahmedabad",Cotton Linen Shirts,2.25
+2026-03-24,"Shayamal Iconic, Ahmedabad",Cotton Linen Shirts,2.25
+2026-03-03,"Shayamal Iconic, Ahmedabad",Men Perfumes,5.0
+2026-03-10,"Shayamal Iconic, Ahmedabad",Men Perfumes,5.0
+2026-03-17,"Shayamal Iconic, Ahmedabad",Men Perfumes,5.0
+2026-03-24,"Shayamal Iconic, Ahmedabad",Men Perfumes,5.0
+2026-03-03,"Shayamal Iconic, Ahmedabad",Oversized T-Shirts,6.5
+2026-03-10,"Shayamal Iconic, Ahmedabad",Oversized T-Shirts,6.5
+2026-03-17,"Shayamal Iconic, Ahmedabad",Oversized T-Shirts,6.5
+2026-03-24,"Shayamal Iconic, Ahmedabad",Oversized T-Shirts,6.5
+2026-03-03,"Sindhu Bhavan Road, Ahmedabad",Cotton Linen Shirts,2.75
+2026-03-10,"Sindhu Bhavan Road, Ahmedabad",Cotton Linen Shirts,2.75
+2026-03-17,"Sindhu Bhavan Road, Ahmedabad",Cotton Linen Shirts,2.75
+2026-03-24,"Sindhu Bhavan Road, Ahmedabad",Cotton Linen Shirts,2.75
+2026-03-03,"Sindhu Bhavan Road, Ahmedabad",Men Perfumes,8.5
+2026-03-10,"Sindhu Bhavan Road, Ahmedabad",Men Perfumes,8.5
+2026-03-17,"Sindhu Bhavan Road, Ahmedabad",Men Perfumes,8.5
+2026-03-24,"Sindhu Bhavan Road, Ahmedabad",Men Perfumes,8.5
+2026-03-03,"Sindhu Bhavan Road, Ahmedabad",Oversized T-Shirts,4.25
+2026-03-10,"Sindhu Bhavan Road, Ahmedabad",Oversized T-Shirts,4.25
+2026-03-17,"Sindhu Bhavan Road, Ahmedabad",Oversized T-Shirts,4.25
+2026-03-24,"Sindhu Bhavan Road, Ahmedabad",Oversized T-Shirts,4.25
+2026-03-03,"Sky City Mall, Borivali",Cotton Linen Shirts,2.25
+2026-03-10,"Sky City Mall, Borivali",Cotton Linen Shirts,2.25
+2026-03-17,"Sky City Mall, Borivali",Cotton Linen Shirts,2.25
+2026-03-24,"Sky City Mall, Borivali",Cotton Linen Shirts,2.25
+2026-03-03,"Sky City Mall, Borivali",Men Perfumes,7.5
+2026-03-10,"Sky City Mall, Borivali",Men Perfumes,7.5
+2026-03-17,"Sky City Mall, Borivali",Men Perfumes,7.5
+2026-03-24,"Sky City Mall, Borivali",Men Perfumes,7.5
+2026-03-03,"Sky City Mall, Borivali",Oversized T-Shirts,14.5
+2026-03-10,"Sky City Mall, Borivali",Oversized T-Shirts,14.5
+2026-03-17,"Sky City Mall, Borivali",Oversized T-Shirts,14.5
+2026-03-24,"Sky City Mall, Borivali",Oversized T-Shirts,14.5
+2026-03-03,"Swagat Holiday Mall, Gandhinagar",Cotton Linen Shirts,0.75
+2026-03-10,"Swagat Holiday Mall, Gandhinagar",Cotton Linen Shirts,0.75
+2026-03-17,"Swagat Holiday Mall, Gandhinagar",Cotton Linen Shirts,0.75
+2026-03-24,"Swagat Holiday Mall, Gandhinagar",Cotton Linen Shirts,0.75
+2026-03-03,"Swagat Holiday Mall, Gandhinagar",Men Perfumes,3.25
+2026-03-10,"Swagat Holiday Mall, Gandhinagar",Men Perfumes,3.25
+2026-03-17,"Swagat Holiday Mall, Gandhinagar",Men Perfumes,3.25
+2026-03-24,"Swagat Holiday Mall, Gandhinagar",Men Perfumes,3.25
+2026-03-03,"Swagat Holiday Mall, Gandhinagar",Oversized T-Shirts,2.5
+2026-03-10,"Swagat Holiday Mall, Gandhinagar",Oversized T-Shirts,2.5
+2026-03-17,"Swagat Holiday Mall, Gandhinagar",Oversized T-Shirts,2.5
+2026-03-24,"Swagat Holiday Mall, Gandhinagar",Oversized T-Shirts,2.5
+2026-03-03,Temp Store,Cotton Linen Shirts,4.5
+2026-03-10,Temp Store,Cotton Linen Shirts,4.5
+2026-03-17,Temp Store,Cotton Linen Shirts,4.5
+2026-03-24,Temp Store,Cotton Linen Shirts,4.5
+2026-03-03,Temp Store,Men Perfumes,3.25
+2026-03-10,Temp Store,Men Perfumes,3.25
+2026-03-17,Temp Store,Men Perfumes,3.25
+2026-03-24,Temp Store,Men Perfumes,3.25
+2026-03-03,Temp Store,Oversized T-Shirts,6.25
+2026-03-10,Temp Store,Oversized T-Shirts,6.25
+2026-03-17,Temp Store,Oversized T-Shirts,6.25
+2026-03-24,Temp Store,Oversized T-Shirts,6.25
+2026-03-03,"VIP Road, Surat",Men Perfumes,6.75
+2026-03-10,"VIP Road, Surat",Men Perfumes,6.75
+2026-03-17,"VIP Road, Surat",Men Perfumes,6.75
+2026-03-24,"VIP Road, Surat",Men Perfumes,6.75
+2026-03-03,"VIP Road, Surat",Oversized T-Shirts,6.0
+2026-03-10,"VIP Road, Surat",Oversized T-Shirts,6.0
+2026-03-17,"VIP Road, Surat",Oversized T-Shirts,6.0
+2026-03-24,"VIP Road, Surat",Oversized T-Shirts,6.0
+2026-03-03,"VN Road, Anand",Men Perfumes,7.25
+2026-03-10,"VN Road, Anand",Men Perfumes,7.25
+2026-03-17,"VN Road, Anand",Men Perfumes,7.25
+2026-03-24,"VN Road, Anand",Men Perfumes,7.25
+2026-03-03,"VN Road, Anand",Oversized T-Shirts,6.75
+2026-03-10,"VN Road, Anand",Oversized T-Shirts,6.75
+2026-03-17,"VN Road, Anand",Oversized T-Shirts,6.75
+2026-03-24,"VN Road, Anand",Oversized T-Shirts,6.75
+2026-03-03,"VR Mall, Surat",Oversized T-Shirts,5.5
+2026-03-10,"VR Mall, Surat",Oversized T-Shirts,5.5
+2026-03-17,"VR Mall, Surat",Oversized T-Shirts,5.5
+2026-03-24,"VR Mall, Surat",Oversized T-Shirts,5.5
+2026-03-03,"Vega City Mall, Bangalore",Cotton Linen Shirts,1.0
+2026-03-10,"Vega City Mall, Bangalore",Cotton Linen Shirts,1.0
+2026-03-17,"Vega City Mall, Bangalore",Cotton Linen Shirts,1.0
+2026-03-24,"Vega City Mall, Bangalore",Cotton Linen Shirts,1.0
+2026-03-03,"Vega City Mall, Bangalore",Men Perfumes,3.25
+2026-03-10,"Vega City Mall, Bangalore",Men Perfumes,3.25
+2026-03-17,"Vega City Mall, Bangalore",Men Perfumes,3.25
+2026-03-24,"Vega City Mall, Bangalore",Men Perfumes,3.25
+2026-03-03,"Viviana Mall, Mumbai",Cotton Linen Shirts,4.5
+2026-03-10,"Viviana Mall, Mumbai",Cotton Linen Shirts,4.5
+2026-03-17,"Viviana Mall, Mumbai",Cotton Linen Shirts,4.5
+2026-03-24,"Viviana Mall, Mumbai",Cotton Linen Shirts,4.5
+2026-03-03,"Viviana Mall, Mumbai",Men Perfumes,4.25
+2026-03-10,"Viviana Mall, Mumbai",Men Perfumes,4.25
+2026-03-17,"Viviana Mall, Mumbai",Men Perfumes,4.25
+2026-03-24,"Viviana Mall, Mumbai",Men Perfumes,4.25
+2026-03-03,"Viviana Mall, Mumbai",Oversized T-Shirts,4.75
+2026-03-10,"Viviana Mall, Mumbai",Oversized T-Shirts,4.75
+2026-03-17,"Viviana Mall, Mumbai",Oversized T-Shirts,4.75
+2026-03-24,"Viviana Mall, Mumbai",Oversized T-Shirts,4.75
+2026-03-03,WWH - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,48.0
+2026-03-10,WWH - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,48.0
+2026-03-17,WWH - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,48.0
+2026-03-24,WWH - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,48.0
+2026-03-03,WWH - The Souled Store Pvt. Ltd.,Oversized T-Shirts,68.5
+2026-03-10,WWH - The Souled Store Pvt. Ltd.,Oversized T-Shirts,68.5
+2026-03-17,WWH - The Souled Store Pvt. Ltd.,Oversized T-Shirts,68.5
+2026-03-24,WWH - The Souled Store Pvt. Ltd.,Oversized T-Shirts,68.5
+2026-03-03,Warehouse - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,1.25
+2026-03-10,Warehouse - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,1.25
+2026-03-17,Warehouse - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,1.25
+2026-03-24,Warehouse - The Souled Store Pvt. Ltd.,Cotton Linen Shirts,1.25
+2026-03-03,Warehouse - The Souled Store Pvt. Ltd.,Oversized T-Shirts,3.25
+2026-03-10,Warehouse - The Souled Store Pvt. Ltd.,Oversized T-Shirts,3.25
+2026-03-17,Warehouse - The Souled Store Pvt. Ltd.,Oversized T-Shirts,3.25
+2026-03-24,Warehouse - The Souled Store Pvt. Ltd.,Oversized T-Shirts,3.25
+2026-03-03,"Wave Mall, Jammu",Men Perfumes,4.0
+2026-03-10,"Wave Mall, Jammu",Men Perfumes,4.0
+2026-03-17,"Wave Mall, Jammu",Men Perfumes,4.0
+2026-03-24,"Wave Mall, Jammu",Men Perfumes,4.0
+2026-03-03,"Wave Mall, Jammu",Oversized T-Shirts,1.5
+2026-03-10,"Wave Mall, Jammu",Oversized T-Shirts,1.5
+2026-03-17,"Wave Mall, Jammu",Oversized T-Shirts,1.5
+2026-03-24,"Wave Mall, Jammu",Oversized T-Shirts,1.5
+2026-03-03,"Yagnik Road, Rajkot",Men Perfumes,4.25
+2026-03-10,"Yagnik Road, Rajkot",Men Perfumes,4.25
+2026-03-17,"Yagnik Road, Rajkot",Men Perfumes,4.25
+2026-03-24,"Yagnik Road, Rajkot",Men Perfumes,4.25
+2026-03-03,"Yagnik Road, Rajkot",Oversized T-Shirts,4.5
+2026-03-10,"Yagnik Road, Rajkot",Oversized T-Shirts,4.5
+2026-03-17,"Yagnik Road, Rajkot",Oversized T-Shirts,4.5
+2026-03-24,"Yagnik Road, Rajkot",Oversized T-Shirts,4.5

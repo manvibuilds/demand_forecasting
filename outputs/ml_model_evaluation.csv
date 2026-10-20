@@ -1,0 +1,5 @@
+Dataset,Training rows,Testing rows,Test start,Test end,Random Forest MAE,Baseline MAE,Random Forest median AE,Baseline median AE,Validation
+Levis SKU,6246,179,2026-02-02,2026-02-23,89.1,107.02,11.26,5.0,Chronological holdout of the last 4 weeks
+Souled Store SKU,16522,1326,2026-02-02,2026-02-23,3.77,3.87,1.23,1.0,Chronological holdout of the last 4 weeks
+Levis Category,152,19,2026-02-02,2026-02-23,1267.91,1425.84,815.64,643.0,Chronological holdout of the last 4 weeks
+Souled Store Category,4976,417,2026-02-02,2026-02-23,9.12,10.9,2.4,3.0,Chronological holdout of the last 4 weeks

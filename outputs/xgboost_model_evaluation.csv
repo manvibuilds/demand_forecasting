@@ -1,0 +1,21 @@
+Dataset,Horizon,Cutoff start,Cutoff end,Total series,Series scored,Series excluded,Excluded because history shorter than 20 weeks,Excluded because a long history could not be scored,Series-origin pairs,Scored weeks,Cutoff pairs skipped because history was still short,Cutoff pairs skipped because the cutoff week was absent,Cutoff pairs skipped because a future week was absent,XGBoost MAE,XGBoost median AE,Random Forest MAE,Random Forest median AE,Repeat last week MAE,Repeat last week median AE,XGBoost closer than repeat last week,Repeat last week closer than XGBoost,Ties,Lowest MAE,Lowest median AE
+Levis SKU,1 week ahead,2025-12-08,2026-01-26,353,41,312,204,108,224,224,226,2238,136,7.17,0.98,7.33,1.59,4.7,0.0,44,153,27,Repeat last week,Repeat last week
+Levis SKU,2 week ahead,2025-12-08,2026-01-26,353,41,312,204,108,224,224,226,2238,136,6.8,0.66,6.9,1.6,4.65,0.0,47,145,32,Repeat last week,Repeat last week
+Levis SKU,3 week ahead,2025-12-08,2026-01-26,353,41,312,204,108,224,224,226,2238,136,6.91,0.74,7.52,1.83,3.89,0.0,44,149,31,Repeat last week,Repeat last week
+Levis SKU,4 week ahead,2025-12-08,2026-01-26,353,41,312,204,108,224,224,226,2238,136,6.83,1.0,7.22,2.16,3.09,0.0,46,145,33,Repeat last week,Repeat last week
+Levis SKU,All 4 weeks,2025-12-08,2026-01-26,353,41,312,204,108,224,896,226,2238,136,6.93,0.89,7.24,1.73,4.08,0.0,181,592,123,Repeat last week,Repeat last week
+Souled Store SKU,1 week ahead,2025-12-08,2026-01-26,1127,227,900,773,127,1461,1461,2387,4940,228,4.9,1.84,4.37,1.76,4.55,1.0,568,831,62,Random Forest,Repeat last week
+Souled Store SKU,2 week ahead,2025-12-08,2026-01-26,1127,227,900,773,127,1461,1461,2387,4940,228,5.99,2.0,5.41,1.91,5.56,2.0,590,820,51,Random Forest,Random Forest
+Souled Store SKU,3 week ahead,2025-12-08,2026-01-26,1127,227,900,773,127,1461,1461,2387,4940,228,6.92,2.2,6.21,2.0,6.72,2.0,657,756,48,Random Forest,Tie: Random Forest and Repeat last week
+Souled Store SKU,4 week ahead,2025-12-08,2026-01-26,1127,227,900,773,127,1461,1461,2387,4940,228,7.12,2.26,6.37,2.01,7.03,2.0,709,707,45,Random Forest,Repeat last week
+Souled Store SKU,All 4 weeks,2025-12-08,2026-01-26,1127,227,900,773,127,1461,5844,2387,4940,228,6.23,2.03,5.59,1.9,5.97,2.0,2524,3114,206,Random Forest,Random Forest
+Levis Category,1 week ahead,2025-12-08,2026-01-26,32,2,30,30,0,15,15,23,217,1,1210.87,93.44,1191.95,60.62,1146.87,18.0,4,10,1,Repeat last week,Repeat last week
+Levis Category,2 week ahead,2025-12-08,2026-01-26,32,2,30,30,0,15,15,23,217,1,1301.23,268.79,1276.03,342.42,1928.87,35.0,5,10,0,Random Forest,Repeat last week
+Levis Category,3 week ahead,2025-12-08,2026-01-26,32,2,30,30,0,15,15,23,217,1,1303.22,93.46,1279.42,544.44,1989.13,205.0,6,9,0,Random Forest,XGBoost
+Levis Category,4 week ahead,2025-12-08,2026-01-26,32,2,30,30,0,15,15,23,217,1,1239.25,319.96,1332.85,542.29,1905.67,258.0,6,9,0,XGBoost,Repeat last week
+Levis Category,All 4 weeks,2025-12-08,2026-01-26,32,2,30,30,0,15,60,23,217,1,1263.64,126.32,1270.06,174.52,1742.63,44.0,21,38,1,XGBoost,Repeat last week
+Souled Store Category,1 week ahead,2025-12-08,2026-01-26,199,76,123,91,32,528,528,431,577,56,10.2,2.24,9.19,1.89,9.52,2.0,230,285,13,Random Forest,Random Forest
+Souled Store Category,2 week ahead,2025-12-08,2026-01-26,199,76,123,91,32,528,528,431,577,56,13.45,2.32,11.94,2.02,12.96,2.0,234,284,10,Random Forest,Repeat last week
+Souled Store Category,3 week ahead,2025-12-08,2026-01-26,199,76,123,91,32,528,528,431,577,56,16.25,2.33,14.41,2.0,15.74,2.0,244,274,10,Random Forest,Tie: Random Forest and Repeat last week
+Souled Store Category,4 week ahead,2025-12-08,2026-01-26,199,76,123,91,32,528,528,431,577,56,15.86,2.49,14.97,2.17,15.5,3.0,264,253,11,Random Forest,Random Forest
+Souled Store Category,All 4 weeks,2025-12-08,2026-01-26,199,76,123,91,32,528,2112,431,577,56,13.94,2.32,12.63,2.0,13.43,2.0,972,1096,44,Random Forest,Tie: Random Forest and Repeat last week
