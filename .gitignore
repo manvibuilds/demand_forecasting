@@ -16,6 +16,13 @@ data/processed/*
 !data/processed/.gitkeep
 
 # Forecast and evaluation files include locations, items, and quantities.
-# Keep them on this machine unless a separate review says they can be published.
+# Ignore generated outputs by default. Only the reviewed files below are published.
 outputs/*
 !outputs/.gitkeep
+!outputs/model_comparison.csv
+!outputs/ml_model_evaluation.csv
+!outputs/xgboost_model_evaluation.csv
+!outputs/levis_sku_4_week_forecast.csv
+!outputs/levis_category_4_week_forecast.csv
+!outputs/souledstore_sku_4_week_forecast.csv
+!outputs/souledstore_category_4_week_forecast.csv
